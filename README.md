@@ -7,7 +7,7 @@ The dashboard helps HR teams and management make data-driven decisions by transf
 
 ---
 
-# 🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 - Power BI
 - Power Query
 - DAX
@@ -15,20 +15,20 @@ The dashboard helps HR teams and management make data-driven decisions by transf
 
 ---
 
-# 📂 Dataset Information
+## 📂 Dataset Information
 
 ### Data Source
 - Excel File
  
 ---
 
-# 🔄 Project Workflow
+## 🔄 Project Workflow
 
 ## Step 1️⃣ Data Loading & Transformation (Power Query)
 
 Imported Excel data into Power BI and performed data cleaning using Power Query.
 
-### Data Cleaning Activities:
+## Data Cleaning Activities:
 - Corrected column data types
 - Removed unnecessary rows
 - Standardized dataset structure
@@ -60,7 +60,7 @@ Total Employees = COUNT(Employee[EmpID])
 
 ## Calculated Column
 
-Age Group =
+ Age Group =
 SWITCH(
     TRUE(),
     Employee[Age] >= 21 && Employee[Age] <= 25, "21-25",
@@ -73,15 +73,15 @@ SWITCH(
 
 # 📊 Dashboard Features
 
-## KPI Cards
+### KPI Cards
 - Average Salary
 - Maximum Salary
 - Total Employees
 
-## Slicer
+### Slicer
 - Date of Joining
 
-## Charts Used
+### Charts Used
 
 ### Donut Chart
 - Employee Distribution by Gender
@@ -97,7 +97,7 @@ SWITCH(
 
 ---
 
-# ❓ Business Questions Solved
+## ❓ Business Questions Solved
 
 1. What is the gender distribution of employees in the organization?
 
@@ -116,7 +116,7 @@ SWITCH(
 
 ---
 
-# 📈 Key Business Insights
+## 📈 Key Business Insights
 
 - Female employees are slightly higher than male employees.
 - Age group 31–35 contributes the highest salary share.
@@ -126,7 +126,7 @@ SWITCH(
 
 ---
 
-# 💡 Business Recommendations
+## 💡 Business Recommendations
 
 - Improve workforce planning using hiring trend analysis.
 - Review salary structures for lower-paying job roles.
@@ -136,13 +136,13 @@ SWITCH(
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 ![HR Analytics Dashboard](dashboard.png)
 
 ---
 
-# 📁 Project Files
+## 📁 Project Files
 
 HR-Analytics-Dashboard/
 │
@@ -152,7 +152,7 @@ HR-Analytics-Dashboard/
 └── README.md
 ---
 
-# 🚀 Skills Demonstrated
+## 🚀 Skills Demonstrated
 - Power BI Dashboard Development
 - Power Query Data Transformation
 - DAX Measures
@@ -164,7 +164,7 @@ HR-Analytics-Dashboard/
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 ## Reshma Mishra
 Aspiring Data Analyst 
