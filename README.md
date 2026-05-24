@@ -47,7 +47,7 @@ Created an interactive dashboard using KPI cards, slicers, DAX measures, and cha
 
 ---
 
-# 🧠 DAX Measures & Calculated Columns
+## 🧠 DAX Measures & Calculated Columns
 
 ## Measures
 
@@ -71,28 +71,28 @@ SWITCH(
 )
 ---
 
-# 📊 Dashboard Features
+## 📊 Dashboard Features
 
-### KPI Cards
+## KPI Cards
 - Average Salary
 - Maximum Salary
 - Total Employees
 
-### Slicer
+## Slicer
 - Date of Joining
 
-### Charts Used
+## Charts Used
 
-### Donut Chart
+## Donut Chart
 - Employee Distribution by Gender
 
-### Treemap
+## Treemap
 - Salary by Age Group
 
-### Clustered Bar Chart
+## Clustered Bar Chart
 - Average Salary by Job Title
 
-### Clustered Bar Chart
+## Clustered Bar Chart
 - Hiring by Month
 
 ---
@@ -117,7 +117,7 @@ SWITCH(
 ---
 
 ## 📈 Key Business Insights
-
+- Average employee salary is 54.23K while the maximum salary reached 85K
 - Female employees are slightly higher than male employees.
 - Age group 31–35 contributes the highest salary share.
 - Product Managers receive the highest average salary.
